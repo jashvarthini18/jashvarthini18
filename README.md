@@ -1,48 +1,54 @@
-# Jashvarthini
+<h1>Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jashvarthini Rajesh</h1>
+<h2 align="center">Aspiring Full Stack Developer and SDE</h2>
 
-## About Me
-
-Hi there! I'm Jashvarthini, and I have a passion for coding. I love diving into new projects and solving challenging problems through programming.
-
-## Projects
-
-### Project 1: Personal Portfolio Website
-
-- **Description:** My personal portfolio website showcasing my projects and skills.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Demo:** [Visit Website](https://jashvarthini.github.io)
-- **Repository:** [GitHub Repo](https://github.com/jashvarthini/portfolio)
+&nbsp;
+&nbsp;
 
 
-## Skills
+### About Me: 
+- 🎓 I’m currently studying at **Chennai Institute Of Technology-B.Tech Computer Science and Business Systems**
 
-Here are some of the tools in my toolbox:
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- **Programming Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Node.js
-- **Tools & Technologies:** Git, Firebase
+- 📫 Reach me through **jashvarthinirajesh@gmail.com**
 
-## Experience
+- 🎯 Checkout my portfolio <a href="" target="_blank">**here**</a>
 
-- **Web Developer Intern** at XYZ Company - Summer 2023
-  - Developed and maintained web applications using React.js.
-  - Collaborated with the team to implement new features and fix bugs.
+- **while(!(succeed=try()));
 
-## Education
+<h3 align="left">Connect with me: 👨‍💻</h3>
+<p align="left">
+<a href="www.linkedin.com/in/jashvarthini-rajesh-5a288b256" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Jashvarthini Rajesh" height="30" width="30" hspace="10" />
+</a>
 
-- **Bachelor of Computer Science and Business Systems** - Chennai Institute of Technology
+</p>
 
-## Contact
-
-Let's connect:
-
-- **Email:** jashvarthini@example.com
-- **LinkedIn:** [Jashvarthini's LinkedIn Profile](https://www.linkedin.com/in/jashvarthini)
-- **Portfolio:** [Jashvarthini's Portfolio](https://jashvarthini.github.io)
-
-## Connect with Me
-
-Find me around the web:
-
-- [GitHub](https://github.com/jashvarthini)
-- [Instagram](https://dev.to/jashvarthini)
+<p align="left"> 
+<h3> Languages and Tools: :bulb: </h3>
+</p>
+<div align="center">
+  <h2>Tech Stack</h2>
+  <table>
+    <tr>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="60" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/ed1d6b1d-750f-4df7-8744-5f697e65b0fa.png?raw=true" alt="Python">
+        <img width="45" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/0bafbe28-91e8-4d67-ac03-4660f2565802.png?raw=true" alt="HTML">
+        <img width="45" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73.png?raw=true" alt="CSS">
+        <img width="45" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc.png?raw=true" alt="JavaScript">
+        <img width="60" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/2a864905-cac2-4d9e-af99-7d7d9438684d.png?raw=true" alt="C">
+        <img width="80" height="50" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e.png?raw=true" alt="Node.js">
+        <img width="90" height="60" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/3960d02c-c89a-40fd-a90e-eb6cda4c34db.png?raw=true" alt="MySQL">
+        <img width="70" height="70" src="https://github.com/jashvarthini18/jashvarthini18/blob/main/assets/95350584/17642cac-81b6-4233-8ebb-e6f5cb5536e0.png?raw=true" alt="MongoDB">
+        <img width="90" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="ReactJS">
+        <img width="50" height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
+        <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/768px-Postgresql_elephant.svg.png" alt="PostgreSQL">
+        <img width="70" height="70" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django">
+        <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R">
+      </td>
+    </tr>
+  </table>
+</div>
