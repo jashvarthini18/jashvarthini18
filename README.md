@@ -27,11 +27,11 @@
 <p align="left"> 
 <h3> Languages and Tools: :bulb: </h3>
 </p>
-
 <div align="center">
+  <h2>Tech Stack</h2>
   <table>
     <tr>
-      <th>Tech Stacks</th>
+      <th>Technologies</th>
     </tr>
     <tr>
       <td align="center">
@@ -43,7 +43,7 @@
         <img width="80" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.js">
         <img width="90" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlGLH72Yh7sPDvzsPSw-xD4Nl7eOwjTXOpXwZIgOFMA&s" alt="MySQL">
         <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB">
-        <img width="90" height="45" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart">
+        <img width="90" height="45" src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png?2" alt="Dart">
         <img width="120" height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="ReactJS">
         <img width="50" height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
         <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/768px-Postgresql_elephant.svg.png" alt="PostgreSQL">
@@ -53,4 +53,3 @@
     </tr>
   </table>
 </div>
-
