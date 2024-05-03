@@ -28,27 +28,27 @@
 <h3> Languages and Tools: :bulb: </h3>
 </p>
 <div align="center">
-  <h2>Tech Stack</h2>
+ 
   <table>
     <tr>
-      <th>Technologies</th>
+      <th>Tech Stack</th>
     </tr>
     <tr>
       <td align="center">
-        <img width="60" height="60" src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python">
-        <img width="45" height="60" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML">
-        <img width="45" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS">
-        <img width="45" height="60" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="JavaScript">
-        <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C">
-        <img width="80" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.js">
-        <img width="90" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlGLH72Yh7sPDvzsPSw-xD4Nl7eOwjTXOpXwZIgOFMA&s" alt="MySQL">
+        <img width="70" height="70" src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python">
+        <img width="70" height="70" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML">
+        <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS">
+        <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="JavaScript">
+        <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C">
+        <img width="70" height="70" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.js">
+        <img width="70" height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlGLH72Yh7sPDvzsPSw-xD4Nl7eOwjTXOpXwZIgOFMA&s" alt="MySQL">
         <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB">
-        <img width="90" height="45" src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png?2" alt="Dart">
-        <img width="120" height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="ReactJS">
-        <img width="50" height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
-        <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/768px-Postgresql_elephant.svg.png" alt="PostgreSQL">
-        <img width="120" height="60" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django">
-        <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R">
+        <img width="70" height="70" src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png?2" alt="Dart">
+        <img width="70" height="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="ReactJS">
+        <img width="70" height="70" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
+        <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/768px-Postgresql_elephant.svg.png" alt="PostgreSQL">
+        <img width="70" height="70" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django">
+        <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R">
       </td>
     </tr>
   </table>
