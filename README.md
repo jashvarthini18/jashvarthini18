@@ -14,7 +14,7 @@
 
 - 🎯 Checkout my portfolio <a href="" target="_blank">**here**</a>
 
-- **while(!(succeed=try()));
+- **while(!(succeed=try()));**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
