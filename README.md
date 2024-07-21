@@ -1,5 +1,5 @@
 <h1>Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jashvarthini Rajesh</h1>
-<h2 align="center">Aspiring Full Stack Developer and SDE</h2>
+<h2 align="center">Full Stack Developer and Aspiring SDE</h2>
 
 &nbsp;
 &nbsp;
