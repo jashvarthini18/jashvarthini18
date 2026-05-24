@@ -6,7 +6,6 @@
 
 
 ### About Me: 
-- 🎓 I’m currently studying at **Chennai Institute Of Technology-B.Tech Computer Science and Business Systems**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
