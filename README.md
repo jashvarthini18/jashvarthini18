@@ -8,7 +8,7 @@
 
 * 📫 Reach me through **[jashvarthinirajesh@gmail.com](mailto:jashvarthinirajesh@gmail.com)**
 
-* 🎯 Checkout my portfolio <a href="" target="http://jashvarthini18.github.io/Portfolio">**here**</a>
+* 🎯 Checkout my portfolio <a href="http://jashvarthini18.github.io/Portfolio" target="">**here**</a>
 
 * **while(!(succeed=try()));**
 
